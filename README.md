@@ -4,12 +4,12 @@
 ## Data Period: 2020.04.01 - 2022.05.25
 ## Data file: 7 days per file and 112 spreadsheets.
 ## Data Quality:
-### Data source doesn’t come from the Marine traffic.
-### Missing MMSI, IMO code or name.
-### Missing vessel type or other information.
-### Time interval is not fixed. 
-### Isolated points.
-### AIS signal is all over the world including landlocked countries or mountains.
+1. Data source doesn’t come from the Marine traffic.
+2. Missing MMSI, IMO code or name.
+3. Missing vessel type or other information.
+4. Time interval is not fixed. 
+5. Isolated points.
+6. AIS signal is all over the world including landlocked countries or mountains.
 
 ![image](https://github.com/user-attachments/assets/ca64cd86-5b85-4e22-a2c4-3f944d5f615a)
 
