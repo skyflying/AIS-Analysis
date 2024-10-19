@@ -1,4 +1,4 @@
-# AIS-Analyss
+# AIS-Analysis
 
 AIS Data: It is the information broadcasted by the vessel, including name, MMSI  code, IMO code, coordinates, vessel type, heading, width, length, and timestamp.
 Data Period: 2020.04.01 - 2022.05.25
