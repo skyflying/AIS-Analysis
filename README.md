@@ -13,7 +13,11 @@ Data Quality:
 
 ![image](https://github.com/user-attachments/assets/ea4924dd-0976-4317-a07e-e0a49253463a)
 
-
+All in all, this analysis includes
+- Data proprecessing
+- Pattern Finding
+- Connect the track line
+- Mapping
 
 Vessel Track: Build up the track by connecting data points with the MMSI code(or IMO code ) and sorting by the timestamp. Also filtering by the timestamp, if the time gap for two consecutive points is more than 4 hours, the tracking line would be split into two-part.
 
